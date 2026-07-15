@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Program%20Files/Git/tpv-demo/sw.js', { scope: '/Program%20Files/Git/tpv-demo/' })})}
