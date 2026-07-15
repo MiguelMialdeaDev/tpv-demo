@@ -1,1 +1,1 @@
-{"name":"TPV Kiosco","short_name":"TPV","description":"TPV para kiosco — escaneo de productos y precios","start_url":"/","display":"standalone","background_color":"#0b0f14","theme_color":"#0b0f14","lang":"en","scope":"/Program%20Files/Git/tpv-demo/"}
+{"name":"TPV Kiosco","short_name":"TPV","description":"TPV para kiosco — escaneo de productos y precios","start_url":"/","display":"standalone","background_color":"#0b0f14","theme_color":"#0b0f14","lang":"en","scope":"/tpv-demo/"}
